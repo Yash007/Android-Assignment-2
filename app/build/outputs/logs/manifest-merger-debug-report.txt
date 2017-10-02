@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yash007/.android/build-cache/ea7d63c27da09717ff0a682fd034c8562c3fd1e9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yash007/.android/build-cache/d8ad3d4a115ab647cc182c5de4f6417cf9f720fb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yash007/.android/build-cache/7bdb2edd8a898690cce1316a591d02bb5b647dd5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yash007/.android/build-cache/1f717f6ee1cfb6dce9357f5ada145909fc7bfe3c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yash007/.android/build-cache/6aff59d6f49b6f43fb1677228a892b251ea95b14/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yash007/.android/build-cache/8a1aa6b597b6a0e8adfcac0463b48203080579a3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yash007/.android/build-cache/6899e12fa8e46a03565e93411ebdcc15295c076b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yash007/.android/build-cache/7dc33ccbdfda8bf0c4da5d96caa480e915e2f07c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yash007/.android/build-cache/eda545bbcf0cee2925c1240b3f1e20f6c24b17ec/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yash007/.android/build-cache/fbe31cd5dec337d68b91d4cc42ff2c5838f03d5c/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.yash007.pizzaassignment2.MainActivity
+ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yash007/.android/build-cache/ea7d63c27da09717ff0a682fd034c8562c3fd1e9/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yash007/.android/build-cache/d8ad3d4a115ab647cc182c5de4f6417cf9f720fb/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yash007/.android/build-cache/7bdb2edd8a898690cce1316a591d02bb5b647dd5/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yash007/.android/build-cache/1f717f6ee1cfb6dce9357f5ada145909fc7bfe3c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yash007/.android/build-cache/6aff59d6f49b6f43fb1677228a892b251ea95b14/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yash007/.android/build-cache/8a1aa6b597b6a0e8adfcac0463b48203080579a3/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yash007/.android/build-cache/6899e12fa8e46a03565e93411ebdcc15295c076b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yash007/.android/build-cache/7dc33ccbdfda8bf0c4da5d96caa480e915e2f07c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yash007/.android/build-cache/eda545bbcf0cee2925c1240b3f1e20f6c24b17ec/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yash007/.android/build-cache/fbe31cd5dec337d68b91d4cc42ff2c5838f03d5c/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yash007/.android/build-cache/ea7d63c27da09717ff0a682fd034c8562c3fd1e9/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yash007/AndroidStudioProjects/PizzaAssignment2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yash007/.android/build-cache/ea7d63c27da09717ff0a682fd034c8562c3fd1e9/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yash007/.android/build-cache/d8ad3d4a115ab647cc182c5de4f6417cf9f720fb/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yash007/.android/build-cache/7bdb2edd8a898690cce1316a591d02bb5b647dd5/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yash007/.android/build-cache/1f717f6ee1cfb6dce9357f5ada145909fc7bfe3c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yash007/.android/build-cache/6aff59d6f49b6f43fb1677228a892b251ea95b14/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yash007/.android/build-cache/8a1aa6b597b6a0e8adfcac0463b48203080579a3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yash007/.android/build-cache/6899e12fa8e46a03565e93411ebdcc15295c076b/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yash007/.android/build-cache/7dc33ccbdfda8bf0c4da5d96caa480e915e2f07c/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yash007/.android/build-cache/eda545bbcf0cee2925c1240b3f1e20f6c24b17ec/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yash007/.android/build-cache/ea7d63c27da09717ff0a682fd034c8562c3fd1e9/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yash007/.android/build-cache/ea7d63c27da09717ff0a682fd034c8562c3fd1e9/output/AndroidManifest.xml:26:9-47
